@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216066482015",
+    "project_id": "nutrimeter-45433",
+    "storage_bucket": "nutrimeter-45433.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216066482015:android:34378f0b5cbc85ab45e0ea",
+        "android_client_info": {
+          "package_name": "com.example.nutrimeter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE7RQkaYc-JK4cx0v7Z5BkJaH_pCtup2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
